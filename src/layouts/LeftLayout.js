@@ -62,10 +62,10 @@ const Header = styled.p`
 export const SuggestContainer = styled.div`
   position: absolute;
   top: 95%;
-
-  li {
-    width: 10rem;
-  }
+  width: 15rem;
+  background-color: #e9eec9;
+  color: #000;
+  margin-left: 2rem;
 `;
 
 const LeftLayout = ({
